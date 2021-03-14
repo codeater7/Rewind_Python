@@ -1,1 +1,5 @@
 List.find( )
+List.index ()
+
+absolute = abs(-23)
+print absolute
